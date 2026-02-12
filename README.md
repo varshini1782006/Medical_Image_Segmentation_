@@ -1,1 +1,1 @@
-# Medical_Image_Segmentation_Tasks
+# Medical_Image_Segmentation
