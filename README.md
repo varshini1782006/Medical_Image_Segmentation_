@@ -1,4 +1,4 @@
-Project: Brain MRI Tumor Segmentation (Otsu vs Sauvola)
+Project: Brain Tumor Segmentation (Otsu and Sauvola)
 
 Objective:
 Segment tumor regions in brain MRI images using classical thresholding techniques.
@@ -16,7 +16,7 @@ Dice Score
 Jaccard Index
 
 Dataset:
-Kaggle — Brain MRI Tumor Dataset
+Kaggle — Brain Tumor Segmentation
 
 Key Findings:
 Both global and adaptive thresholding methods struggle to accurately segment tumors due to intensity overlap between tumor and normal brain tissues.
