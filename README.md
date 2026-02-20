@@ -1,4 +1,4 @@
-Project : Brain Tumor Segmentation (Otsu vs Sauvola)
+**Project : Brain Tumor Segmentation (Otsu vs Sauvola)**
 
 Objective:
 Segment tumor regions in brain MRI images using classical thresholding techniques.
