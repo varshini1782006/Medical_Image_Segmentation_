@@ -24,7 +24,7 @@ Both global and adaptive thresholding struggle to accurately segment tumors due 
 
 
 
-Project : Retinal Vessel Extraction (Niblack vs Sauvola)
+**Project : Retinal Vessel Extraction (Niblack vs Sauvola)**
 
 Objective:
 Extract thin blood vessels from retinal fundus images.
@@ -50,7 +50,7 @@ Understanding local threshold behavior on thin structures.
 
 
 
-Project : Cell Nuclei Separation (Watershed)
+**Project : Cell Nuclei Separation (Watershed)**
 
 Objective:
 Separate touching or overlapping cell nuclei.
